@@ -1,0 +1,29 @@
+--Python
+Python is a high-level, interpreted, general-purpose programming language known for its simple and readable syntax. It supports multiple programming paradigms, 
+including procedural, object-oriented, and functional programming.
+
+what is programming?
+Programming is nothing but a language or 
+medium which we use to interact with a machine.
+
+Program : A set of Instructions / steps to perform task 
+Example: Making Tea (steps = code)
+Note:
+Computers understand logic, not emotions
+
+Features of python:
+a. Simple syntax (English language)
+b. Fast to learn and implement
+c. Rich library ecosystem
+d. Developed by Guido van Rossum.
+
+
+How python runs code?
+* python runs code line by line (interpreter-based)
+* no need to compile manually - interpreter handles it
+* each line is converted into bytecode , then executed by the Python Virtual Machine(PVM).
+* error stops execution immediately
+
+Variable : A varible name can be composed of characters, numbers, the underscore character. It can't start with a number . 
+These are all valid variable names.
+
