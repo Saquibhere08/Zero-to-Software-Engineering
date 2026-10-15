@@ -13,4 +13,5 @@ list2.sort() #sort the list in ascending order
 print(list2)
 list2.pop() #eliminates the last item of the list
 print(list2)
-
+list2.insert(0,100)
+print(list2)
