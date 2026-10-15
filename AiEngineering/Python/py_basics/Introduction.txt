@@ -37,3 +37,5 @@ upper() - prints the string in uppercase letters
 lower() - prints the string in lowercase letters
 
 Conditional Statments: Conditional statements allow a program to make decisions based on whether a condition is True or False.
+
+List: In Python, a list is a way to store multiple values in a single variable. Think of it like a container that holds several items.
